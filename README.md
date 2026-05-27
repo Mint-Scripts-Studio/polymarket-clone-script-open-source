@@ -82,7 +82,7 @@ Ensure you have Node.js (v18+) and PostgreSQL/Redis instances running.
 
 ```bash
 # Clone this optimized repository
-git clone [https://github.com/Mint-Scripts-Studio/polymarket-clone-script-open-source.git](https://github.com/Mint-Scripts-Studio/polymarket-clone-script-open-source.git)
+git clone https://github.com/Mint-Scripts-Studio/polymarket-clone-script-open-source.git
 cd polymarket-clone-script-open-source
 
 # Install core production dependencies
@@ -90,7 +90,6 @@ npm install
 
 # Configure your Web3 Environment Variables
 cp .env.example .env
-
 ```
 
 # Fire up the development environment
