@@ -19,7 +19,7 @@ Looking for a production-ready **Polymarket Clone Script**? **Mint Scripts Studi
 
 This repository contains the optimized **Open Source Core** of the platform. The fully featured, automated enterprise version is available for commercial deployment.
 
-👉 **[CLICK HERE TO BUY POLYMARKET CLONE FULL SOURCE CODE](https://mintscripts.net/market/38-polymarket-clone-prediction-market-script.html)**
+👉 **[CLICK HERE TO BUY POLYMARKET CLONE FULL SOURCE CODE](https://mintscripts.net/en/market/38-polymarket-clone-prediction-market-script.html)**
 
 ---
 
