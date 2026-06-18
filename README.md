@@ -1,4 +1,4 @@
-# polymarket-clone-script-open-source-prediction-market
+# polymarket clone script open source prediction market
 
 [![GitHub stars](https://img.shields.io/github/stars/Mint-Scripts-Studio/polymarket-clone-script-open-source?style=for-the-badge&color=gold)](https://github.com/Mint-Scripts-Studio/polymarket-clone-script-open-source)
 [![License](https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
